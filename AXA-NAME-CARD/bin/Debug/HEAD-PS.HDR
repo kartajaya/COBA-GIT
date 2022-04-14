@@ -1,0 +1,34 @@
+%!PS-Adobe-3.0
+%%Creator: John
+%%BoundingBox: 0.0 0.0 600.00 816.00
+%%EndComments
+%%BeginProlog
+/t /translate load def
+/K {0.0 0.0 0.0 setrgbcolor 0.0 setgray} bind def
+/W {1.0 1.0 1.0 setrgbcolor 1.0 setgray} bind def
+/R {1.0 0.0 0.0 setrgbcolor} bind def
+/G {0.0 1.0 0.0 setrgbcolor} bind def
+/B {0.0 0.0 1.0 setrgbcolor} bind def
+/BO {gsave moveto 1 index 0 rlineto 0 exch rlineto neg 0 rlineto closepath setgray fill grestore} bind def
+/FN {findfont exch scalefont setfont} bind def
+/LI  /lineto load def
+/MV  /moveto load def
+/SL {moveto show} bind def
+/SC {moveto dup stringwidth pop 2 div neg 0 rmoveto show} bind def
+/SR {moveto dup stringwidth pop neg 0 rmoveto show} bind def
+/UL {stringwidth neg -2 rmoveto neg 0 rlineto 1 setlinewidth 0 setgray stroke} def
+
+
+/FA08 {8/ArialMT findfont exch scalefont setfont} bind def
+/FA09 {9/ArialMT findfont exch scalefont setfont} bind def
+/FAB8 {8/Arial-BoldMT findfont exch scalefont setfont} bind def
+/FAB9 {9/Arial-BoldMT findfont exch scalefont setfont} bind def
+/FA05 {5/ArialMT findfont exch scalefont setfont} bind def
+/FA06 {6/ArialMT findfont exch scalefont setfont} bind def
+/FA07 {7/ArialMT findfont exch scalefont setfont} bind def
+/FAB7 {7/Arial-BoldMT findfont exch scalefont setfont} bind def
+/FA10 {10/ArialMT findfont exch scalefont setfont} bind def
+/FA11 {11/ArialMT findfont exch scalefont setfont} bind def
+/FAB10 {10/Arial-BoldMT findfont exch scalefont setfont} bind def
+
+%%EndProlog
